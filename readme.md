@@ -46,7 +46,7 @@ Two main target audiences that Gold Label will be intended for. The first is for
 
 ## R3 |	Application Architecture Diagram
 
-![AAD](/Users/dk/Documents/Screenshots/AAD.png)
+![AAD](/AAD.png)
 
 ## R4 |	User Stories
 
