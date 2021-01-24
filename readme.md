@@ -94,9 +94,9 @@ As a business owner, I would like to blank out lisitngs that have been booked by
 
 <img src="docs/myb.png" style="zoom:100%;" />
 
-<img src="docs/properties.png" style="zoom:100%;" />
+<img src="docs/prop.png" style="zoom:100%;" />
 
-<img src="docs/signup.png" style="zoom:100%;" />
+<img src="docs/sign.png" style="zoom:100%;" />
 
 
 
