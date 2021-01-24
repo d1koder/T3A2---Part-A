@@ -88,11 +88,11 @@ As a business owner, I would like to blank out lisitngs that have been booked by
 
 ## R5 |	Wireframes - Desktop/ Mobile/ Tablet
 
-<img src="docs/homepage.png" style="zoom:100%;" />
+<img src="docs/home.png" style="zoom:100%;" />
 
-<img src="docs/loggedin.png" style="zoom:100%;" />
+<img src="docs/login.png" style="zoom:100%;" />
 
-<img src="docs/mybookings.png" style="zoom:100%;" />
+<img src="docs/myb.png" style="zoom:100%;" />
 
 <img src="docs/properties.png" style="zoom:100%;" />
 
