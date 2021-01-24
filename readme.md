@@ -38,9 +38,11 @@ Two main target audiences that Gold Label will be intended for. The first is for
 | **Deployment**:     | Heroku                    |
 | **Active Storage**: | PostgreSQL, Amazon S3     |
 
+
+
 ## R2 |	Dataflow Diagram
 
-
+<img src="docs/dfd.png" style="zoom:100%;" />
 
 
 
@@ -74,7 +76,7 @@ As a business owner, I want to be able to upload images of my properties, so tha
 
 As a business owner, I would like to edit and delete my lisitings, to make sure everything is always up to date as to not confuse poetneial customers.
 
-As a business owner, i would like to display venue availability, so that I know which properties to prepare.
+As a business owner, I would like to display venue availability, so that I know which properties to prepare.
 
 As a business owner, I would want to meet the needs of potential customers according to the type of the events they would to host.
 
