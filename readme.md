@@ -42,7 +42,7 @@ Two main target audiences that Gold Label will be intended for. The first is for
 
 ## R2 |	Dataflow Diagram
 
-<img src="docs/dfd.png" style="zoom:100%;" />
+<img src="docs/DFD.png" style="zoom:100%;" />
 
 
 
