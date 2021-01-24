@@ -31,12 +31,12 @@ Two main target audiences that Gold Label will be intended for. The first is for
 
 ### 	Tech Stack		
 
-| Technologies        |                       |
-| ------------------- | --------------------- |
-| **Front-end**:      | React, HTML, CSS      |
-| **Back-end**:       | Rails                 |
-| **Deployment**:     | Heroku                |
-| **Active Storage**: | PostgreSQL, Amazon S3 |
+| Technologies        |                           |
+| ------------------- | ------------------------- |
+| **Front-end**:      | React, HTML, CSS, Netlify |
+| **Back-end**:       | Rails                     |
+| **Deployment**:     | Heroku                    |
+| **Active Storage**: | PostgreSQL, Amazon S3     |
 
 ## R2 |	Dataflow Diagram
 
@@ -86,33 +86,36 @@ As a business owner, I would like to be able to respond to reviews left by my (p
 
 As a business owner, I would like to blank out lisitngs that have been booked by other clients, so that other clients dont double book venues.
 
-
-
-
-
 ## R5 |	Wireframes - Desktop/ Mobile/ Tablet
 
-![Home page](/Users/dk/Desktop/Fast_track/term3/wireframes/Home page.png)
+<img src="docs/homepage.png" style="zoom:100%;" />
 
-![Logged In](/Users/dk/Desktop/Fast_track/term3/wireframes/Logged In.png)
+<img src="docs/loggedin.png" style="zoom:100%;" />
 
-![My Bookings](/Users/dk/Desktop/Fast_track/term3/wireframes/My Bookings.png)
+<img src="docs/mybookings.png" style="zoom:100%;" />
 
-![Properties](/Users/dk/Desktop/Fast_track/term3/wireframes/Properties.png)
+<img src="docs/properties.png" style="zoom:100%;" />
 
-![Sign up ](/Users/dk/Desktop/Fast_track/term3/wireframes/Sign up .png)
+<img src="docs/signup.png" style="zoom:100%;" />
+
+
 
 ## R6 |	Trello Screenshots
 
 [Kanban Board for T3A2](https://trello.com/b/56p7isHM/t3a2)
 
-![](/Users/dk/Desktop/T3A2/Part A/Screen Shot 2021-01-20 at 16.50.08.png)
+As you scroll down through the array of screenshots, our methodology approach for this part of the project becomes evident. 
 
-<img src="/Users/dk/Desktop/T3A2/Part A/Screen Shot 2021-01-20 at 16.51.41.png" style="zoom:50%;" />
+<img src="docs/trello1.png" style="zoom:100%;" />
 
-<img src="/Users/dk/Desktop/T3A2/Part A/Screen Shot 2021-01-20 at 16.47.55.png" style="zoom:25%;" />
+<img src="docs/trello2.png" style="zoom:100%;" />
 
+<img src="docs/trello3.png" style="zoom:100%;" />
 
+<img src="docs/trello4.png" style="zoom:100%;" />
 
+<img src="docs/trello5.png" style="zoom:100%;" />
 
+<img src="docs/trello6.png" style="zoom:100%;" />
 
+<img src="docs/trello7.png" style="zoom:100%;" />
