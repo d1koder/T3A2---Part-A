@@ -48,6 +48,8 @@ Two main target audiences that Gold Label will be intended for. The first is for
 
 ![AAD](/AAD.png)
 
+<img src="docs/ascii.png" style="zoom:100%;" />
+
 ## R4 |	User Stories
 
 We started our users stories by brainstorming personas, and then in no particular order, wrote down said user stories as they came to mind, then we elaborated further on the ideas and then structgered them in a way so that it made logical sense and then proceeded to reorder the user stories into their respective section under  "users" and "business owner".
