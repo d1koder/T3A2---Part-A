@@ -38,12 +38,12 @@ Two main target audiences that Gold Label will be intended for. The first is for
 
 ### 		Tech Stack		
 
-| Technologies        |                           |
-| ------------------- | ------------------------- |
-| **Front-end**:      | React, HTML, CSS, Netlify |
-| **Back-end**:       | Rails                     |
-| **Deployment**:     | Heroku                    |
-| **Active Storage**: | PostgreSQL, Amazon S3     |
+| Technologies        |                   |
+| ------------------- | ----------------- |
+| **Front-end**:      | React             |
+| **Back-end**:       | Rails, PostgreSQL |
+| **Deployment**:     | Heroku, Netlify   |
+| **Active Storage**: | Amazon S3         |
 
 
 
